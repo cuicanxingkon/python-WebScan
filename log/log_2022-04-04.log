@@ -1,0 +1,38 @@
+2022-04-04 21:05:09,764 - root - * - ++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-04-04 21:05:09,764 - root - * - 扫描时间：2022-04-04 21:05:09
+2022-04-04 21:05:09,764 - root - * - 扫描目标: http://192.168.220.128/Wordpress/wordpress-5.8.2-zh_CN
+2022-04-04 21:05:09,764 - root - * - 目标CMS:WordPress	线程大小: 5
+2022-04-04 21:05:09,764 - root - * - 漏洞库所在路径: C:\Users\23850\Desktop\WebScan\plugins 
+2022-04-04 21:05:09,764 - root - * - 正在导入"WordPress"内容管理系统插件
+2022-04-04 21:05:09,764 - root - * - --------------------------------------------------
+2022-04-04 21:05:09,780 - root - * - 导入漏洞扫描模块，开始扫描漏洞
+2022-04-04 21:05:09,780 - root - * - 导入POC: WordPress_ Contact Form to EmailV1_3_24-存储型xss
+2022-04-04 21:05:09,780 - root - ! - 目标网站未发现 WordPress_ Contact Form to EmailV1_3_24-存储型xss 漏洞
+2022-04-04 21:05:09,780 - root - * - 导入POC: WordPress_Backup and RestoreV1_0_3-任意文件删除
+2022-04-04 21:05:09,780 - root - ! - 目标网站未发现 WordPress_Backup and RestoreV1_0_3-任意文件删除 漏洞
+2022-04-04 21:05:09,795 - root - * - 导入POC: WordPress_All-in-One Video GalleryV2_4_6-文件包含
+2022-04-04 21:05:09,795 - root - ! - 目标网站未发现 WordPress_All-in-One Video GalleryV2_4_6-文件包含 漏洞
+2022-04-04 21:05:11,185 - root - * - 导入POC: WordPress_3DPrint LiteV1_9_1_4-任意文件上传
+2022-04-04 21:05:11,185 - root - ! - 目标网站未发现 WordPress_3DPrint LiteV1_9_1_4-任意文件上传 漏洞
+2022-04-04 21:05:13,340 - root - * - 导入POC: WordPress_Download From FilesV1_48-任意文件上传
+2022-04-04 21:05:13,340 - root - ! - 目标网站未发现 WordPress_Download From FilesV1_48-任意文件上传 漏洞
+2022-04-04 21:05:13,340 - root - * - 导入POC: WordPress_Plainview Activity MonitorV20161228 - 远程代码执行
+2022-04-04 21:05:13,340 - root - ! - 目标网站未发现 WordPress_Plainview Activity MonitorV20161228 - 远程代码执行 漏洞
+2022-04-04 21:05:13,540 - root - * - 导入POC: WordPress_Mail MastaV1_0-本地文件包含
+2022-04-04 21:05:13,540 - root - + - WordPress Plugin Mail Masta 1.0 - 文件包含漏洞
+2022-04-04 21:05:13,540 - root - * - 导入POC: WordPress_Simple Job BoardV2_9_3 - 本地文件包含 
+2022-04-04 21:05:13,540 - root - ! - 目标网站未发现 WordPress_Simple Job BoardV2_9_3 - 本地文件包含  漏洞
+2022-04-04 21:05:13,540 - root - * - 导入POC: WordPress_True RankerV2_2_2 - 任意文件读取
+2022-04-04 21:05:13,547 - root - ! - 目标网站未发现 WordPress_True RankerV2_2_2 - 任意文件读取 漏洞
+2022-04-04 21:05:13,578 - root - * - 导入POC: WordPress_dzs-zoomsoundsV6_60 - 远程代码执行(RCE)
+2022-04-04 21:05:13,578 - root - ! - 目标网站未发现 WordPress_dzs-zoomsoundsV6_60 - 远程代码执行(RCE) 漏洞
+2022-04-04 21:05:13,578 - root - * - 导入POC: WordPress_WP Visitor StatisticsV4_7 - SQL注入
+2022-04-04 21:05:13,578 - root - ! - 目标网站未发现 WordPress_WP Visitor StatisticsV4_7 - SQL注入 漏洞
+2022-04-04 21:05:15,449 - root - * - 导入POC: WordPress_ProfilePressV3_1_3-特权提升
+2022-04-04 21:05:15,449 - root - ! - 目标网站未发现 WordPress_ProfilePressV3_1_3-特权提升 漏洞
+2022-04-04 21:05:15,649 - root - * - 导入POC: WordPress_WooCommerce BoosterV5_4_3-认证旁路
+2022-04-04 21:05:15,649 - root - + - WordPress Plugin WooCommerce Booster Plugin 5.4.3 - 认证旁路漏洞    CVE-2021-34646
+2022-04-04 21:05:15,718 - root - * - 导入POC: WordPress_Anti-Malware Security and Bruteforce FirewallV4_20_59-目录穿越漏洞
+2022-04-04 21:05:15,718 - root - ! - 目标网站未发现 WordPress_Anti-Malware Security and Bruteforce FirewallV4_20_59-目录穿越漏洞 漏洞
+2022-04-04 21:05:15,718 - root - + - 目标http://192.168.220.128/Wordpress/wordpress-5.8.2-zh_CN扫描完成！
+2022-04-04 21:05:15,718 - root - * - ++++++++++++++++++++++++++++++++++++++++++++++++++
